@@ -1,4 +1,4 @@
-**该文件仅用于lerobot作业**
+**仅用于lerobot作业**
 
 lerobot详细信息参考[github/lerobot](https://github.com/huggingface/lerobot)
 
